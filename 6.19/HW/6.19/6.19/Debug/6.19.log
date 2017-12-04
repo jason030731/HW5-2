@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\劉家誠\desktop\程式語言\hw5-2\6.19\source\main.c(14): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  6.19.vcxproj -> C:\Users\劉家誠\Desktop\程式語言\HW5-2\6.19\HW\6.19\Debug\6.19.exe
+  6.19.vcxproj -> C:\Users\劉家誠\Desktop\程式語言\HW5-2\6.19\HW\6.19\Debug\6.19.pdb (Partial PDB)
